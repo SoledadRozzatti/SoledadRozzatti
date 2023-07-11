@@ -11,7 +11,7 @@
 <br>
 
 #### Soy bioquímica profesional desde hace un poco más de 12 años. 
-#### En 2022 fue mi último trabajo como bioquímica en el ámbito de la salud hospitalaria. Y a mediados de ese mismo año decidí adentrarme en este apasionante mundo👩‍💻. 
+#### En 2022 fue mi último trabajo como bioquímica en el ámbito de la salud hospitalaria. Y a mediados de ese mismo año decidí adentrarme en este apasionante mundo de los datos👩‍💻. 
 
 ### Tecnologías
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
