@@ -1,6 +1,7 @@
 ## Hola, mi nombre es María Soledad Rozzatti👋👩
-#### Soy Bioquímica especialista en Inmunología Clínica y en Epidemiología. 
-#### Y estoy comenzando a transitar el mundo de los datos, ya no desde la mesada del laboratorio, sino como Data Scientit.
+#### Soy Data Scientist, enfocada en Data Analytics. Empecé a transitar el mundo de los datos, ya no desde la mesada del laboratorio, sino desde el mundo del código.
+ 
+
 #### Y me encanta 😍!!
 
 <br>
@@ -10,7 +11,7 @@
 
 <br>
 
-#### Soy bioquímica profesional desde hace un poco más de 12 años. 
+#### Soy bioquímica especialista en Inmunología Clínica y en Epidemiología desde hace un poco más de 12 años. 
 #### En 2022 fue mi último trabajo como bioquímica en el ámbito de la salud hospitalaria. Y a mediados de ese mismo año decidí adentrarme en este apasionante mundo de los datos👩‍💻. 
 
 ### Tecnologías
