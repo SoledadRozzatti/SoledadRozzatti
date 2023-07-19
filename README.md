@@ -11,7 +11,7 @@
 
 <br>
 
-#### Soy bioquímica especialista en Inmunología Clínica y en Epidemiología desde hace un poco más de 12 años. 
+#### Soy bioquímica desde hace un poco más de 12 años. Me especialicé en inmunología y epidemiología. 
 #### En 2022 fue mi último trabajo como bioquímica en el ámbito de la salud hospitalaria. Y a mediados de ese mismo año decidí adentrarme en este apasionante mundo de los datos👩‍💻. 
 
 ### Tecnologías
