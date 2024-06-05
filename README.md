@@ -1,5 +1,5 @@
 ## Hola, mi nombre es María Soledad Rozzatti👋👩
-#### Soy Data Scientist, enfocada en Data Analytics. Empecé a transitar el mundo de los datos, ya no desde la mesada del laboratorio, sino desde el mundo del código.
+#### Soy Data Scientist, enfocada en Data Analytics. Empecé a transitar el mundo de los datos, no sólo desde la mesada del laboratorio, sino también desde el mundo del código.
  
 
 #### Y me encanta 😍!!
