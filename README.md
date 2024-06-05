@@ -30,7 +30,7 @@
 <br>
 
 #### Soy bioquímica desde hace un poco más de 12 años. Me especialicé en inmunología y epidemiología. 
-#### En 2022 fue mi último trabajo como bioquímica en el ámbito de la salud hospitalaria. Y a mediados de ese mismo año decidí adentrarme en este apasionante mundo de los datos👩‍💻. 
+#### En 2022 decidí tomar el reto de adentrarme en este apasionante mundo de los datos👩‍💻. 
 #### Me encantan los desafíos, el trabajo en equipo y pensar que siempre es posible encontrar una solución!
 
 
